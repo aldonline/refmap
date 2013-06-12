@@ -1,0 +1,17 @@
+{
+  "name": "refmap",
+  "version": "0.0.0",
+  "description": "Object == Map[String,Any] . refmap == Map[Any,Any]",
+  "author": "Aldo Bucchi <aldo.bucchi@gmail.com>",
+  "main": "build/refmap.js",
+  "scripts": {
+    "test": "make test",
+    "prepublish": "coffee -c -o build lib/refmap.coffee"
+  },
+  "devDependencies": {
+    "mocha": "~1.9.0",
+    "chai": "~1.5.0",
+    "coffee-script": "~1.6.3"
+  },
+  "repository": ""
+}
