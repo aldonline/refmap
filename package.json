@@ -1,6 +1,6 @@
 {
   "name": "refmap",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Object == Map[String,Any] . refmap == Map[Any,Any]",
   "author": "Aldo Bucchi <aldo.bucchi@gmail.com>",
   "main": "lib/refmap.js",
